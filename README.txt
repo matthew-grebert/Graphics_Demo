@@ -1,0 +1,1 @@
+To avoid black screen loading error, run chrome.exe from the command line using --allow-file-access-from-files
